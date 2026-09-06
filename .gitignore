@@ -1,6 +1,5 @@
 # Python-generated files
 __pycache__/
-game_state.jsonl
 *.py[oc]
 build/
 dist/
@@ -9,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Game files
+game_state.jsonl
+game_events.jsonl
